@@ -2,4 +2,4 @@ Resolusi thn ini:
 -Bisa menggunakan framework
 -Bisa membuat aplikasi android
 -mengerti menggunakan java dan dalam"nya
--Tetap bernafas
+
